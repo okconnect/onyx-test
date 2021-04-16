@@ -1,0 +1,2 @@
+$onyx_char = array("4", "Z", "I","7","2","D","U","A","9","W","3");
+sort($onyx_char);
